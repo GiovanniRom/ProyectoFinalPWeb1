@@ -1,0 +1,54 @@
+.display-flex{
+    display: flex;
+}
+
+.ligas{
+    font-style: italic;
+    color: aliceblue;
+    font-size: x-large;
+    text-align: center;
+}
+
+.carac{
+text-align: center;
+width: 50%;
+margin-left: 1rem;
+}
+
+.titulo{
+    text-align: center;
+    font-size: xx-large;
+    font-style: inherit;
+}
+
+.cold{
+    width: 50%; 
+    margin-left: 0%;
+}
+
+.conte{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+.linea{
+    border-bottom-style: solid;
+    height: 2.5rem;
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+}
+
+.intro{
+    height: 5rem; 
+    width: auto; 
+    padding: 1rem; 
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif; 
+    font-size: larger;
+    text-align: justify;
+}
+
+.vid{
+    text-align: center;
+    height: auto;
+    width: auto;
+}
