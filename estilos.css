@@ -13,6 +13,7 @@
     text-align: center;
     width: 50%;
     margin-left: 1rem;
+    vertical-align: middle;
 }
 
 .titulo{
@@ -29,6 +30,7 @@
 .conte{
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
+    vertical-align: middle;
 }
 
 .linea{
@@ -46,6 +48,7 @@
     border-bottom-color: black;
     border-bottom-width: 5px;
     border-right-width: 3px;
+    vertical-align: middle;
 }
 
 .intro{
