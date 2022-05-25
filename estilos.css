@@ -33,9 +33,19 @@ margin-left: 1rem;
 
 .linea{
     border-bottom-style: solid;
-    height: 2.5rem;
+    height: 3.5rem;
     border-bottom-color: black;
     border-bottom-width: 5px;
+    
+}
+
+.lineai{
+    border-bottom-style: solid;
+    border-right-style: solid;
+    height: 3.5rem;
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+    border-right-width: 3px;
 }
 
 .intro{
@@ -49,6 +59,8 @@ margin-left: 1rem;
 
 .vid{
     text-align: center;
-    height: auto;
-    width: auto;
+}
+
+.logored{
+    border-radius: 50%;
 }
